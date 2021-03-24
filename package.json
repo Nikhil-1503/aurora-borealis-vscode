@@ -1,0 +1,32 @@
+{
+    "name": "aurora-borealis",
+    "displayName": "Aurora Borealis",
+    "description": "Aurora Borealis is a VS Code theme representing the aurora borealis or the northern lights.",
+    "author": {
+        "name": "Nikhil Shanbhag",
+        "email": "nikhil.shanbhag01@gmail.com"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "Dark Theme",
+        "Aurora",
+        "Borealis",
+        "Color Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aurora Borealis",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aurora Borealis-color-theme.json"
+            }
+        ]
+    }
+}
