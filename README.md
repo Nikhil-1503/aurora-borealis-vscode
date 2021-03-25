@@ -1,5 +1,5 @@
 <p align ="center">
-  <img src="" alt="Aurora-Borealis Logo" width="100" />
+  <img src=".\images\logo.png" alt="Aurora-Borealis Logo" width="100" />
 </p>
 <h1 align ="center">
    Aurora Borealis is a VS Code theme representing the aurora borealis or the northern lights.
