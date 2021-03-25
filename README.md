@@ -4,9 +4,10 @@
 <h1 align ="center">
    Aurora Borealis Theme.
 </h1>
-<p align ="center">
+<h3 align ="center">
   Representing the northern lights.
-</p>  
+</h3>  
+
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions` or `Ctrl + Shift + X`
