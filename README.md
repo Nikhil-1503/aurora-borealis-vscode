@@ -1,5 +1,5 @@
 <p align ="center">
-  <img src=".\images\logo.png" alt="Aurora-Borealis Logo" width="100" />
+  <img src="https://raw.githubusercontent.com/Nikhil-1503/aurora-borealis-vscode/images/logo.png" alt="Aurora-Borealis Logo" width="100" />
 </p>
 <h1 align ="center">
    Aurora Borealis Theme.
