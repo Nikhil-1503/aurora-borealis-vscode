@@ -2,9 +2,11 @@
   <img src=".\images\logo.png" alt="Aurora-Borealis Logo" width="100" />
 </p>
 <h1 align ="center">
-   Aurora Borealis is a VS Code theme representing the aurora borealis or the northern lights.
+   Aurora Borealis Theme.
 </h1>
-
+<p align ="center">
+  Representing the northern lights.
+</p>  
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions` or `Ctrl + Shift + X`
