@@ -11,6 +11,18 @@
     "engines": {
         "vscode": "^1.46.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Nikhil-1503/aurora-borealis-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/Nikhil-1503/aurora-borealis-vscode/issues",
+        "email": "nikhil.shanbhag01@gmail.com"
+    },
+    "galleryBanner": {
+        "color": "#111a30",
+        "theme": "dark"
+    },
     "categories": [
         "Themes"
     ],
