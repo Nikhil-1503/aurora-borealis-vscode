@@ -15,3 +15,8 @@
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **Aurora Borealis**
+
+## Installation via VS Code Marketplace
+
+1.Open VS Code Marketplace [Click on this link](https://marketplace.visualstudio.com/items?itemName=nikhilshanbhag.aurora-borealis)
+2.Click on **Install**
