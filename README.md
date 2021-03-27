@@ -8,6 +8,8 @@
   Representing the northern lights.
 </h3>  
 
+!(https://github.com/Nikhil-1503/aurora-borealis-vscode/blob/master/images/aurora_borealis.png)
+
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions` or `Ctrl + Shift + X`
