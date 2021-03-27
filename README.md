@@ -8,7 +8,7 @@
   Representing the northern lights.
 </h3>  
 
-!(https://github.com/Nikhil-1503/aurora-borealis-vscode/blob/master/images/aurora_borealis.png)
+![image](https://github.com/Nikhil-1503/aurora-borealis-vscode/blob/master/images/aurora_borealis.png)
 
 ## Installation via VS Code
 
