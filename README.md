@@ -18,5 +18,5 @@
 
 ## Installation via VS Code Marketplace
 
-1.Open VS Code Marketplace [Click on this link](https://marketplace.visualstudio.com/items?itemName=nikhilshanbhag.aurora-borealis)
-2.Click on **Install**
+1. Open VS Code Marketplace [Click on this link](https://marketplace.visualstudio.com/items?itemName=nikhilshanbhag.aurora-borealis)
+2. Click on **Install**
