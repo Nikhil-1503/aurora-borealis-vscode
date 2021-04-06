@@ -14,9 +14,10 @@
 				"comment",
 				"punctuation.definition.comment"
 			],
+			
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#4e6166"
+				"foreground": "#4e6166",
 			}
 		},
 		{

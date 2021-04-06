@@ -1,13 +1,17 @@
-# README
-## This is the README for your extension "aurora-borealis"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<p align ="center">
+  <img src="https://github.com/Nikhil-1503/aurora-borealis-vscode/blob/master/images/logo.png" alt="Aurora-Borealis Logo" width="100" />
+</p>
+<h1 align ="center">
+   Aurora Borealis Theme.
+</h1>
+<h3 align ="center">
+  Representing the northern lights.
+</h3>  
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Installation via VS Code
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions` or `Ctrl + Shift + X`
+2. Search for `Aurora Borealis`
+3. Click **Install** to install it
+4. Click **Reload** to reload the editor
+5. Code > Preferences > Color Theme > **Aurora Borealis**
