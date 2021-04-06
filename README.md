@@ -11,7 +11,7 @@
 </h3>  
 
 
-![image](https://raw.githubusercontent.com/Nikhil-1503/aurora-borealis-vscode/blob/master/images/aurora_borealis.png)
+![image](https://raw.githubusercontent.com/Nikhil-1503/aurora-borealis-vscode/master/images/aurora_borealis.png)
 
 ## Installation via VS Code
 
